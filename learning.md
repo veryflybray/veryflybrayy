@@ -406,3 +406,7 @@
 - Studied: Testing
 - Notes: Improved understanding of Testing
 
+## Day 103 - Sun Sep 20 15:00:16 UTC 2026
+- Studied: APIs
+- Notes: Improved understanding of APIs
+
