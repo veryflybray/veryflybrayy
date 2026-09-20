@@ -374,3 +374,7 @@
 - Studied: Linux
 - Notes: Improved understanding of Linux
 
+## Day 95 - Sun Sep 20 15:00:16 UTC 2026
+- Studied: Docker
+- Notes: Improved understanding of Docker
+
