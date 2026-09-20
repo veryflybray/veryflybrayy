@@ -150,3 +150,7 @@
 - Studied: Docker
 - Notes: Improved understanding of Docker
 
+## Day 39 - Sun Sep 20 15:00:14 UTC 2026
+- Studied: Testing
+- Notes: Improved understanding of Testing
+
