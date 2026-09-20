@@ -242,3 +242,7 @@
 - Studied: Node.js
 - Notes: Improved understanding of Node.js
 
+## Day 62 - Sun Sep 20 15:00:15 UTC 2026
+- Studied: Docker
+- Notes: Improved understanding of Docker
+
