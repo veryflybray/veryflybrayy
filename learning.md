@@ -402,3 +402,7 @@
 - Studied: JavaScript
 - Notes: Improved understanding of JavaScript
 
+## Day 102 - Sun Sep 20 15:00:16 UTC 2026
+- Studied: Testing
+- Notes: Improved understanding of Testing
+
