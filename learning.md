@@ -6,3 +6,7 @@
 - Studied: Git
 - Notes: Improved understanding of Git
 
+## Day 3 - Sun Sep 20 15:00:12 UTC 2026
+- Studied: Node.js
+- Notes: Improved understanding of Node.js
+
