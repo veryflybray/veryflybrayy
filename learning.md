@@ -330,3 +330,7 @@
 - Studied: Linux
 - Notes: Improved understanding of Linux
 
+## Day 84 - Sun Sep 20 15:00:15 UTC 2026
+- Studied: Testing
+- Notes: Improved understanding of Testing
+
