@@ -90,3 +90,7 @@
 - Studied: APIs
 - Notes: Improved understanding of APIs
 
+## Day 24 - Sun Sep 20 15:00:13 UTC 2026
+- Studied: Linux
+- Notes: Improved understanding of Linux
+
