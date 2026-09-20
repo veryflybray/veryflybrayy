@@ -62,3 +62,7 @@
 - Studied: Testing
 - Notes: Improved understanding of Testing
 
+## Day 17 - Sun Sep 20 15:00:13 UTC 2026
+- Studied: APIs
+- Notes: Improved understanding of APIs
+
