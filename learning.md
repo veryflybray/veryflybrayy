@@ -26,3 +26,7 @@
 - Studied: Docker
 - Notes: Improved understanding of Docker
 
+## Day 8 - Sun Sep 20 15:00:12 UTC 2026
+- Studied: Testing
+- Notes: Improved understanding of Testing
+
