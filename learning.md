@@ -146,3 +146,7 @@
 - Studied: Node.js
 - Notes: Improved understanding of Node.js
 
+## Day 38 - Sun Sep 20 15:00:14 UTC 2026
+- Studied: Docker
+- Notes: Improved understanding of Docker
+
