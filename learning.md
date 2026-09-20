@@ -194,3 +194,7 @@
 - Studied: Git
 - Notes: Improved understanding of Git
 
+## Day 50 - Sun Sep 20 15:00:14 UTC 2026
+- Studied: Docker
+- Notes: Improved understanding of Docker
+
