@@ -126,3 +126,7 @@
 - Studied: JavaScript
 - Notes: Improved understanding of JavaScript
 
+## Day 33 - Sun Sep 20 15:00:13 UTC 2026
+- Studied: Testing
+- Notes: Improved understanding of Testing
+
