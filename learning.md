@@ -290,3 +290,7 @@
 - Studied: Git
 - Notes: Improved understanding of Git
 
+## Day 74 - Sun Sep 20 15:00:15 UTC 2026
+- Studied: Testing
+- Notes: Improved understanding of Testing
+
