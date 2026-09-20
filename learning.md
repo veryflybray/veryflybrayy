@@ -38,3 +38,7 @@
 - Studied: APIs
 - Notes: Improved understanding of APIs
 
+## Day 11 - Sun Sep 20 15:00:12 UTC 2026
+- Studied: Docker
+- Notes: Improved understanding of Docker
+
